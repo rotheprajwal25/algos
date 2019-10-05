@@ -176,6 +176,7 @@ void deleteResult(struct Node** node) {
 	printf("\n");
 }
 
+//for inserting result.
 void insertResult(int res, int d) {
 	if(res == 0) {
 		printf("Invalid Index\n");
